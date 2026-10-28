@@ -13,5 +13,5 @@ variable "managed_by" {
 variable "instance_type" {
   type       = string
   default    = "t2.micro"
-  decription = "instance type"
+  description = "instance type"
 }
